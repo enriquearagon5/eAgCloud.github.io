@@ -1,5 +1,6 @@
 ---
 layout: default
+published: true
 ---
 
 <article class="post">
@@ -17,10 +18,10 @@ layout: default
   <br />
  <div style="text-align: center; margin-top: 10px; margin-bottom: 25px;">
    {% if page.previous %}
-  <a class="button" style="font-size: 12px;" title="Ve al artículo anterior" href="{{  site.baseurl }}{{  page.previous.url }}"><span class="fas fa-chevron-circle-left"></span>&nbsp;Anterior</a>
+  <a class="button" style="font-size: 12px;" title="Prev post" href="{{  site.baseurl }}{{  page.previous.url }}"><span class="fas fa-chevron-circle-left"></span>&nbsp;Prev</a>
 {% endif %}
  {% if page.next %}
-  &nbsp;&nbsp;&nbsp;&nbsp;<a class="button" style="font-size: 12px;" title="Ve al artículo posterior" href="{{  site.baseurl }}{{  page.next.url }}"><span class="fas fa-chevron-circle-right"></span>&nbsp;Posterior</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;<a class="button" style="font-size: 12px;" title="Next post" href="{{  site.baseurl }}{{  page.next.url }}"><span class="fas fa-chevron-circle-right"></span>&nbsp;Next</a>
 {% endif %}
   </div>
 <br />
