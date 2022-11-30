@@ -3,7 +3,7 @@ layout: post
 title: ¿Cómo extraer valor de la lista de un ranking de influencers?
 image: /images/top-100-sm-2019-header.png
 author: Antonio C.
-categories: blogpocket
+categories: Ideas
 published: true
 ---
 
