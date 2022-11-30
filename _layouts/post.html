@@ -30,18 +30,18 @@ published: true
           {{  page.date | date: '%-d' }} de
             {% assign m = page.date | date: '%-m' %}
             {% case m %}
-              {% when '1' %}enero
-                {% when '2' %}febrero
-                {% when '3' %}marzo
-                {% when '4' %}abril
-                {% when '5' %}mayo
-                {% when '6' %}junio
-                {% when '7' %}julio
-                {% when '8' %}agosto
-                {% when '9' %}septiembre
-                {% when '10' %}octubre
-                {% when '11' %}noviembre
-                {% when '12' %}diciembre
+              {% when '1' %}january
+                {% when '2' %}february
+                {% when '3' %}march
+                {% when '4' %}april
+                {% when '5' %}may
+                {% when '6' %}june
+                {% when '7' %}july
+                {% when '8' %}august
+                {% when '9' %}september
+                {% when '10' %}october
+                {% when '11' %}november
+                {% when '12' %}december
             {% endcase %}
             de
             {{  page.date | date: '%Y' }}
