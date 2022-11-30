@@ -5,27 +5,28 @@ permalink: /acerca-de/
 published: true
 ---
 
-Mi nombre es Antonio Cambronero Sánchez y éste es mi miniblog personal. 
+My name is Antonio Cambronero Sánchez and this is my personal blog in english.
 
-### Más información
+### More information
 
-Soy informático, blogger y profesor, con más de 20 años de experiencia en departamentos de soporte técnico informático, análisis de sistemas, productividad, optimización de procesos, atención al cliente y formación, en empresas multinacionales.
+I am a computer scientist and specialist in #WordPress, with more than 25 years of experience in computer technical support departments, systems analysis, productivity, process optimization, customer service and training, in multinational companies. Defender of #minimalism and slow blogging. Addicted to #productivity. I believe in living life with intention and purpose.
 
-- Fundador del blog **Blogpocket** (25-1-2001). 
-- Autor del libro: **“Manual imprescindible de Twitter”** (Ed. Anaya Multimedia, 2012).
-- Profesor del Posgrado en Comunicación Digital y Social Media, en **Inesdi Digital Business School**.
-- Investigador, asesor, autor y Blogging Coach en **Blogpocket**.
+- Founder of the blog **Blogpocket** (25-1-2001).
+- Author of the book: **"Indispensable Twitter Manual"** (Ed. Anaya Multimedia, 2012).
+- Professor of the Postgraduate Course in Digital Communication and Social Media, at **Inesdi Digital Business School**.
+- TOP 100 influencer in Spanish according to Forbes 2021, technology section.
+- Researcher, adviser, author and consultant at Blogpocket.
 
-### Publico artículos, newsletter, podcast y vídeos en:
+### I publish articles, newsletters, podcasts and videos on:
 
 - [Blogpocket](https://www.blogpocket.com)
 
-### Estoy en:
+### I'm in:
 
 - [Mastodon](https://federate.social/@blogpocket)
 - [Twitter](https://www.twitter.com/blogpocket)
 - [LinkedIn](https://www.linkedin.com/in/antoniocambronero/)
 
-### Contacto
+### Contact:
 
 [blogpocket(at)gmail.com](mailto:blogpocket@gmail.com)
