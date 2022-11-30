@@ -2,6 +2,7 @@
 layout: page
 title: Acerca de
 permalink: /acerca-de/
+published: true
 ---
 
 Mi nombre es Antonio Cambronero Sánchez y éste es mi miniblog personal. 
@@ -15,15 +16,16 @@ Soy informático, blogger y profesor, con más de 20 años de experiencia en dep
 - Profesor del Posgrado en Comunicación Digital y Social Media, en **Inesdi Digital Business School**.
 - Investigador, asesor, autor y Blogging Coach en **Blogpocket**.
 
-### Publico textos, podcasts y vídeos en:
+### Publico artículos, newsletter, podcast y vídeos en:
 
 - [Blogpocket](https://www.blogpocket.com)
+
+### Estoy en:
+
+- [Mastodon](https://federate.social/@blogpocket)
 - [Twitter](https://www.twitter.com/blogpocket)
-- [Instagram](https://www.instagram.com/blogpocket)
-- [YouTube](https://www.youtube.com/blogpocket)
-- [SoundCloud](https://www.soundcloud.com/blogpocket)
-- [Tumblr](https://laultimacassette.tumblr.com)
+- [LinkedIn](https://www.linkedin.com/in/antoniocambronero/)
 
 ### Contacto
 
-[blogpocket@gmail.com](mailto:blogpocket@gmail.com)
+[blogpocket(at)gmail.com](mailto:blogpocket@gmail.com)
