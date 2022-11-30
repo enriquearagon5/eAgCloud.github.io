@@ -3,7 +3,7 @@ layout: post
 title: 'Blog en GitHub (rápido, optimizado para móviles y solidario con el planeta)'
 author: Antonio C.
 image: /images/GTMETRIX-GITHUB.jpg
-categories: WordPress
+categories: wordpress
 published: true
 ---
 
