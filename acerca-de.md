@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Acerca de
+title: About
 permalink: /acerca-de/
 published: true
 ---
