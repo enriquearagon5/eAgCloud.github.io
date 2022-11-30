@@ -20,12 +20,12 @@ published: true
 
 <div style="text-align: center; margin-top: 30px; margin-bottom: 25px;">
   {% if paginator.previous_page %}
-    <a class="button" style="font-size: 12px;" title="Prev page" href="{{ paginator.previous_page_path }}"><span class="fas fa-chevron-circle-left"></span>&nbsp;Página previa</a>
+    <a class="button" style="font-size: 12px;" title="Prev page" href="{{ paginator.previous_page_path }}"><span class="fas fa-chevron-circle-left"></span>&nbsp;Prev page</a>
   {% endif %}
   <span class="page_number ">
-    &nbsp;&nbsp;&nbsp;&nbsp;Página {{ paginator.page }} de {{ paginator.total_pages }}
+    &nbsp;&nbsp;&nbsp;&nbsp;Page {{ paginator.page }} of {{ paginator.total_pages }}
   </span>
   {% if paginator.next_page %}
-    &nbsp;&nbsp;&nbsp;&nbsp;<a class="button" style="font-size: 12px;" title="Ve a la página siguiente" href="{{ paginator.next_page_path }}"><span class="fas fa-chevron-circle-right"></span>&nbsp;Next page</a>
+    &nbsp;&nbsp;&nbsp;&nbsp;<a class="button" style="font-size: 12px;" title="Next page" href="{{ paginator.next_page_path }}"><span class="fas fa-chevron-circle-right"></span>&nbsp;Next page</a>
   {% endif %}
 </div>
