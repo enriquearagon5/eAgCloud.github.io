@@ -21,8 +21,8 @@ published: true
   </div>
 <br />
   <div class="date" style="margin-top: 25px;">
-    By {{ page.author }} el
-          {{  page.date | date: '%-d' }} de
+    By {{ page.author }} Date:
+          {{  page.date | date: '%-d' }} /
             {% assign m = page.date | date: '%-m' %}
             {% case m %}
               {% when '1' %}january
