@@ -6,15 +6,15 @@ published: true
 ---
   
   
-  {% for post in site.categories.projects %}
-<li><span>
+  {% for post in site.categories.wordpress %}
+ <li><span>
         {{  post.date | date: '%-d' }} 
             {% assign m = post.date | date: '%-m' %}
             {% case m %} 
               {% when '1' %}jan
                 {% when '2' %}feb
                 {% when '3' %}mar
-                {% when '4' %}apr
+                {% when '4' %}abr
                 {% when '5' %}may
                 {% when '6' %}jun
                 {% when '7' %}jul
