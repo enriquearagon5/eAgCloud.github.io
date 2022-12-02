@@ -1,5 +1,9 @@
 ---
 published: false
+layout: post
+image: null
+author: Antonio C.
+categories: wordpress
 ---
 ## How to integrate WordPress and Mastodon
 
@@ -52,4 +56,3 @@ Finally, getting the Mastodon social icon can be very useful and that is very ea
 In [this video](https://vimeo.com/blogpocket/hcb20) (in spanish) you can see how we have implemented the four previous sections in Blogpocket.com; that is, how we have integrated our WordPress and Mastodon.
 
 Practice your Spanish ;)
-
