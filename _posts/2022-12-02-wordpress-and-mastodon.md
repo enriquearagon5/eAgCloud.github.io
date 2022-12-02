@@ -16,7 +16,7 @@ This post was first published (in Spanish) on Blogpcket.com.
 - How to turn a WordPress website into a kind of Mastodon instance.
 - How to get the Mastodon social icon using a WordPress block.
 
-## **How to create a bot in a Mastodon instance, using a WordPress plugin**
+### **How to create a bot in a Mastodon instance, using a WordPress plugin**
 
 
 We Will start WordPress integration with Mastodon, learning how to create a bot in a Mastodon instance.
@@ -25,7 +25,7 @@ For example, I have created a bot with Blogpocket.com updates (posts and podcast
 
 To send Blogpocket.com posts automatically to that Mastodon account, I simply installed the [Mastodon Autopost](https://es.wordpress.org/plugins/autopost-to-mastodon/). To get it up and running, all you have to do is adjust your credentials and posting preferences in “Settings > Mastodon Autopost”.
 
-## **How to Verify WordPress Website Pages for Your Mastodon Profile**
+### **How to Verify WordPress Website Pages for Your Mastodon Profile**
 
 In Mastodon, the first thing you need to fill out is your profile. This allows you to add up to four links and if you want to verify any of them, you simply have to add to those pages an HTML code that you can capture from the same profile.
 
@@ -37,7 +37,7 @@ The plugin that I have used to verify the pages and posts of Blogpocket.com is [
 
 As of version 1.1, this plugin also offers the option to verify individual authors, providing publishers with an easy method to verify author Mastodon profiles. The latter allowed, in my case, to also automatically verify the link to the author page that acts as a Mastodon instance (see section «How to convert a WordPress website into a kind of Mastodon instance»).
 
-## **How to convert a WordPress website into a kind of Mastodon instance**
+### **How to convert a WordPress website into a kind of Mastodon instance**
 
 You can read the process corresponding to this section in [Your WordPress blog as an instance of Mastodon (fediverse)](https://www.blogpocket.com/2022/11/22/tu-blog-de-wordpress-como-una-instancia-de-mastodon-fediverso/).
 
@@ -47,11 +47,11 @@ In my case, I implemented the [@acambronero@www.blogpocket.com](https://www.blog
 
 I also installed the [WebFinger](https://es.wordpress.org/plugins/webfinger/) and [NodeInfo(2)](https://es.wordpress.org/plugins/nodeinfo/) because according to the ActivityPub plugin documentation it can help make everything work better. Let’s not forget that the ActivityPub plugin is in beta version.
 
-## **How to Get the Mastodon Social Icon Using a WordPress Block**
+### **How to Get the Mastodon Social Icon Using a WordPress Block**
 
 Finally, getting the Mastodon social icon can be very useful and that is very easy with the native WordPress Social Icons block. Simply insert it and you can add that icon to your design.
 
-## **See it In action**
+### **See it In action**
 
 In [this video](https://vimeo.com/blogpocket/hcb20) (in spanish) you can see how we have implemented the four previous sections in Blogpocket.com; that is, how we have integrated our WordPress and Mastodon.
 
