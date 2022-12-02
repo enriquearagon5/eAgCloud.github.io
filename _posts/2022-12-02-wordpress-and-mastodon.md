@@ -8,10 +8,10 @@ categories: wordpress
 
 In this post I give you the keys to integrate WordPress with Mastodon. And, at the end, you will find the special episode of MADE WITH BLOCKS (in spanish), in which I give you the keys to said integration.
 
-
 This post was first published (in Spanish) on Blogpcket.com.
 
-- How to integrate WordPress and Mastodon
+## **How to integrate WordPress and Mastodon**
+
 - How to create a bot in a Mastodon instance, using a WordPress plugin.
 - How to verify pages of a WordPress website for your Mastodon profile.
 - How to turn a WordPress website into a kind of Mastodon instance.
