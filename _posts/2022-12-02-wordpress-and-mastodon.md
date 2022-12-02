@@ -4,6 +4,7 @@ layout: post
 image: null
 author: Antonio C.
 categories: wordpress
+title: How to integrate WordPress and Mastodon
 ---
 In this post I give you the keys to integrate WordPress with Mastodon. And, at the end, you will find the special episode of MADE WITH BLOCKS (in spanish), in which I give you the keys to said integration.
 
