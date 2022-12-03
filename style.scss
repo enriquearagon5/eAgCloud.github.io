@@ -287,7 +287,7 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
-.button-no {
+.button {
 	background-color: #fff;
 	border-radius: 6px;
 	border: 1px solid #13AFDF;
@@ -299,11 +299,11 @@ footer {
 	text-transform: uppercase;
 	width: auto;
 }
-.button-no:hover {
+.button:hover {
 	background-color: #13AFDF;
 	color: #fff;
 }
-.button {
+.button-mastodon {
 	position: absolute;
     background-color: #fff;
 	border-radius: 6px;
@@ -316,4 +316,3 @@ footer {
 	text-transform: uppercase;
 	width: auto;
 }
-
