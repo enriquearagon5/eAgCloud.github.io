@@ -1,5 +1,9 @@
 ---
 published: false
+layout: post
+title: How to add a Mastodon share button to your WordPress
+author: Antonio C.
+categories: wordpress
 ---
 In this post we will see the different ways that exist to add a Mastodon share button to each of your blog posts. With that button, your blog readers will be able to post a toot in their Mastodon instance, related to any of your posts.
 
@@ -8,30 +12,41 @@ About Mastodon and the integration between this decentralized network and WordPr
 ##Creating a Mastodon share button: GitHub
 
 Before we see how to create a Mastodon share button within a WordPress blog, let's see how to do it on GitHub and Jekyll.
+
 I decided to reborn my blog on Github, dedicating it to publishing English versions of my posts on Blogpocket.com.
+
 To find out how to create a blog on Github, I invite you to read How to have a blog with GitHub and Jekyll.
+
 Customizing a GitHub and Jekyll blog requires some technical knowledge, especially HTML and CSS.
 Add the following code to the /_layouts/post.html file:
 
-
-<a title="Share on Mastodon" href="https://tootpick.org/#text=Check%20out%20https://myblogen.github.io{{ page.url }}%20by%20@user@instance.mastodon"><img src="https://edent.github.io/SuperTinyIcons/images/svg/mastodon.svg" width="40" alt="mastodon icon" /></a>
+> <a title="Share on Mastodon" href="https://tootpick.org/#text=Check%20out%20https://myblogen.github.io{{ page.url }}%20by%20@user@instance.mastodon"<img src="https://edent.github.io/SuperTinyIcons/images/svg/mastodon.svg" width="40" alt="mastodon icon" /</a
 
 The "trick" to get that HTML code to work is based on the following:
-Using Juerd Waalboer 's Toopick software, to display the screen that allows you to customize the toot text and choose the instance. Unlike a share button in a centralized network, you need to know the url of the specific instance to which you want to send the message. Thanks to Terence Eden, I found out about this software in a comment to the Create a «Share To Mastodon» Button for WordPress. Toopick's software, like Toot Proxy 's Nikita Karamov, can also be self-hosted, but it's more accessible than with the other because Tootpick is built as a single static HTML file. It's also more privacy-friendly, as explained in the project's documentation. It is recommended that the software runs from your own server so as not to depend on external resources, which implies dependency and low final loading speed. Check the Blogpocket archive to learn how to self-host this software (post in preparation).
-The icon image, corresponding to Mastodon, can be uploaded to a folder in your GitHub installation (images). But you can also use https:////edent.github.io/SuperTinyIcons/images/svg/mastodon.svg. Although it is more advisable, to host the file with the icon on your server, for the same reason described for the software.
+
+- Using Juerd Waalboer 's Toopick software, to display the screen that allows you to customize the toot text and choose the instance. Unlike a share button in a centralized network, you need to know the url of the specific instance to which you want to send the message. Thanks to Terence Eden, I found out about this software in a comment to the Create a «Share To Mastodon» Button for WordPress. Toopick's software, like Toot Proxy 's Nikita Karamov, can also be self-hosted, but it's more accessible than with the other because Tootpick is built as a single static HTML file. It's also more privacy-friendly, as explained in the project's documentation. It is recommended that the software runs from your own server so as not to depend on external resources, which implies dependency and low final loading speed. Check the Blogpocket archive to learn how to self-host this software (post in preparation).
+- The icon image, corresponding to Mastodon, can be uploaded to a folder in your GitHub installation (images). But you can also use edent.github.io/SuperTinyIcons/images/svg/mastodon.svg. Although it is more advisable, to host the file with the icon on your server, for the same reason described for the software.
+
 The text that appears in the box by default, as well as the size of the icon, can be customized within the above code. As shown in the snippet below, you can put your own GitHub domain immediately before {{ page.url }}.
 
-https://myblog.github.io{{ page.url }}
+> myblog.github.io{{ page.url }}
+
 And you can also change your Mastodon user to:
 
-%20by%20@user@instance.mastodon
+> %20by%20@user@instance.mastodon
+
 Icon size is changed to:
-width="40"
-More Sharing projects on Mastodon
+
+> width="40"
+
+###More Sharing projects on Mastodon
+
 As you can read in the Toopick documentation, this is not the first of its kind. It is inspired by:
-toot
-Advanced Sharer for Mastodon
-Mastodon Share Button
+
+- [toot](https://codeberg.org/kytta/toot)
+- [Advanced Sharer for Mastodon](https://sharetomastodon.github.io/about/)
+- [Mastodon Share Button](https://aly-ve.github.io/Mastodon-share-button/)
+
  
 Creating a share button in Mastodon: WordPress without a plugin
 From the implementation of the share button in Mastodon came the idea of ​​doing it in WordPress without using any special social sharing plugin.
@@ -70,4 +85,3 @@ Conclusions
 The problem with implementing a share button on a decentralized platform, like Mastodon, is that a variable with an unknown value is needed, which is the instance.
 We have seen different alternatives but it seems that implementing simple software on your server, in the style of Toopick, is the best solution. Let's not forget that we strive to maintain the high level of performance optimization and preserve privacy.
 Both in the Blogpocket blog, as in eCuaderno (José Luis Orihuela) and blogpocket.github.io you can see the Mastodon share button working, using the Toopick software.
-
