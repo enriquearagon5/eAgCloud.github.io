@@ -9,7 +9,7 @@ In this post we will see the different ways that exist to add a Mastodon share b
 
 About Mastodon and the integration between this decentralized network and WordPress, I suggest [How to integrate WordPress and Mastodon](https://www.blogpocket.com/2022/11/29/como-integrar-wordpress-y-mastodon/).
 
-##Creating a Mastodon share button: GitHub
+## **Creating a Mastodon share button: GitHub
 
 Before we see how to create a Mastodon share button within a WordPress blog, let's see how to do it on GitHub and Jekyll.
 
@@ -39,7 +39,7 @@ Icon size is changed to:
 
 > width="40"
 
-###More Sharing projects on Mastodon
+### **More Sharing projects on Mastodon
 
 As you can read in the Toopick documentation, this is not the first of its kind. It is inspired by:
 
@@ -48,7 +48,7 @@ As you can read in the Toopick documentation, this is not the first of its kind.
 - [Mastodon Share Button](https://aly-ve.github.io/Mastodon-share-button/)
 
  
-##Creating a share button in Mastodon: WordPress without a plugin
+## **Creating a share button in Mastodon: WordPress without a plugin
 
 From the implementation of the share button in Mastodon came the idea of doing it in WordPress without using any special social sharing plugin.
 
@@ -57,7 +57,7 @@ Let's see some ideas to carry it out in:
 A classic theme.
 A block theme.
 
-###Classic theme 
+### **Classic theme 
 
 In a classic WordPress theme, we have the widget areas to customize the website.
 
@@ -84,12 +84,12 @@ To learn about the different options when it comes to obtaining the current URL,
 
 If there was no after entry widget area, it would have to be created. That is beyond the purpose of this article, so I refer you to the Blogpocket archive (post in preparation).
 
-###Block theme
+### **Block theme
 
 In a block theme there is no widget area, but we have the template in the site edition.
 Simply, you have to edit the template corresponding to the individual post and add a shortcode block at the end, in which we will incorporate the one corresponding to the same snippet that we saw in the Classic theme subsection.
 
-##Creating a Mastodon share button: WordPress with plugin
+## **Creating a Mastodon share button: WordPress with plugin
 
 Terence Eden mentions in his article that the Jetpack plugin (supposed to be the Jetpack Social plugin) allows you to add the Mastodon icon and configure it but I couldn't get it to work.
 There are other social sharing plugins. Most do not contemplate Mastodon.
@@ -100,7 +100,7 @@ Logically, this section is left open, although we should pursue a self-hosted so
 
 But, whether you have a classic theme, with an After Entry widget area, or a block theme, using the Insert PHP Code Snippet and Toopick plugin seems like the best option.
 
-##Conclusions
+## **Conclusions
 
 The problem with implementing a share button on a decentralized platform, like Mastodon, is that a variable with an unknown value is needed, which is the instance.
 
