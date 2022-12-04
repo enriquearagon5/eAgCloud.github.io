@@ -7,7 +7,7 @@ categories: wordpress
 ---
 In this post we will see the different ways that exist to add a Mastodon share button to each of your blog posts. With that button, your blog readers will be able to post a toot in their Mastodon instance, related to any of your posts.
 
-About Mastodon and the integration between this decentralized network and WordPress, I suggest [How to integrate WordPress and Mastodon](https://www.blogpocket.com/2022/11/29/como-integrar-wordpress-y-mastodon/).
+About Mastodon and the integration between this decentralized network and WordPress, I suggest [How to integrate WordPress and Mastodon](https://blogpocket.github.io/wordpress-and-mastodon/).
 
 ## Creating a Mastodon share button: GitHub
 
@@ -15,7 +15,7 @@ Before we see how to create a Mastodon share button within a WordPress blog, let
 
 I decided to reborn [my blog on Github](https://blogpocket.github.io/), dedicating it to publishing English versions of my posts on Blogpocket.com.
 
-To find out how to create a blog on Github, I invite you to read [How to have a blog with GitHub and Jekyll](https://www.blogpocket.com/2018/09/02/tener-un-blog-con-github-y-jekyll/).
+To find out how to create a blog on Github, I invite you to read [How to have a blog with GitHub and Jekyll](https://www.blogpocket.com/2018/09/02/tener-un-blog-con-github-y-jekyll/) (in spanish).
 
 Customizing a GitHub and Jekyll blog requires some technical knowledge, especially HTML and CSS.
 Add the following code to the /_layouts/post.html file:
