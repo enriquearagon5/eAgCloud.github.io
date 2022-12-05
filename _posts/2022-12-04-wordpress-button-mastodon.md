@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: How to add a Mastodon share button to your WordPress
 author: Antonio C.
