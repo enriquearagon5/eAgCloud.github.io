@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: How to Create an After Entry Widget Area in a WordPress Classic Theme
 author: Antonio C.
