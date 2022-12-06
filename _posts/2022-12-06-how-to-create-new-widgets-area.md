@@ -79,8 +79,6 @@ With the definition inside functions.php done, the next step was to include the 
 }
  
 ## Conclusions
-
-![Screen Capture]({{site.baseurl}}/_posts/apariencia-widgets.png)
   
 You've learned how to create a new widget area to your classic theme (if the theme developer didn't set it up).
 
