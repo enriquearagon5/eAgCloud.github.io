@@ -1,5 +1,9 @@
 ---
 published: false
+layout: post
+title: 'How to use Postach.io, Evernote and GitHub to create a blog'
+author: Antonio C.
+categories: wordpress
 ---
 I would like to summarize, in this post, two very useful and easy ways to have a blog. On the one hand, Postach.io and Evernote; and on the other hand, GitHub.
 
@@ -43,6 +47,3 @@ You can then use the repository copy you just made to create your own blog. To d
 [Keep reading here to learn more](https://www.blogpocket.com/2018/09/02/tener-un-blog-con-github-y-jekyll/) about GitHub and Jekill
 
 Example blog made with GitHub and Jekill: [Blogpocket E](https://blogpocket.github.io/) (this blog)
-
-
-
