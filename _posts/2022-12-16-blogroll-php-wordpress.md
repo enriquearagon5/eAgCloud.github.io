@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 Title: 'How to add a blogroll to a classic WordPress theme, using a PHP script'
 layout: post
 author: Antonio C.
