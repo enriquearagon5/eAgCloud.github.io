@@ -4,6 +4,7 @@ Title: 'How to add a blogroll to a classic WordPress theme, using a PHP script'
 layout: post
 author: Antonio C.
 categories: wordpress
+title: 'How to add a blogroll to a classic WordPress theme, using a PHP script'
 ---
 If you need a blogroll to add to a classic WordPress theme, in this post I will help you by writing the corresponding PHP code. We will see how you can insert this code in any page of your website, from a .txt file that contains the title, the url of the site and the url of the RSS feed.
 
