@@ -5,7 +5,11 @@ permalink: /acerca-de/
 published: true
 ---
 
-This is an English version of the Blogpocket.com blog. Author: Antonio Cambronero. Here you will see just a few of Blogpocket.com's posts translated into English.
+Holaa! 
+
+Bienvenido a mi Blog. 
+
+/images/WhatsApp_Image_2023-01-02_at_12.44.16-removebg-preview.png
 
 ### More information
 
