@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Blogpocket E
+name: eAgCloud
 
 # Short bio or description (displayed in the header)
-description: Blogpocket's blog in English
+description: mas que Salesforce
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/LOGO-BLOGPOCKET.png
@@ -18,15 +18,15 @@ avatar: /images/LOGO-BLOGPOCKET.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: blogpocket@gmail.com
+  email: aragaongarciaenrique@gmail.com
   facebook: 
   flickr:
   github: 
   instagram:
-  linkedin: antoniocambronero
+  linkedin: Enrique Aragón
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: blogpocket
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube:
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -90,5 +90,5 @@ paginate: 5
 paginate_path: "/blog/page:num/"
 
 twitter:
-  username: blogpocket
+  username: 
   card: summary_large_image
