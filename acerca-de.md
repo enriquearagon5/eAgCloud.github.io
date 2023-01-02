@@ -9,8 +9,8 @@ Holaa!
 
 Bienvenido a mi Blog. 
 
-/images/WhatsApp_Image_2023-01-02_at_12.44.16-removebg-preview.png
-
+[/images/WhatsApp_Image_2023-01-02_at_12.44.16-removebg-preview.png
+](https://github.com/enriquearagon5/enriquearagon5.github.io/blob/master/images/WhatsApp_Image_2023-01-02_at_12.44.16-removebg-preview.png)
 ### More information
 
 Antonio Cambronero is a computer engineer, originally from Madrid (Spain), and a WordPress specialist with more than 25 years of experience in computer technical support departments, systems analysis, productivity, process optimization, customer service and training, in multinational companies. Defender of #minimalism and slow blogging. Addicted to #productivity. I believe in living life with intention and purpose.
